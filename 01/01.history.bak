@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<UndoHistory>
+  <UndoTransaction tv-sec="1741714637" tv-usec="112911" name="add marker">
+    <MementoCommand obj-id="58" type-name="ARDOUR::Locations">
+      <Locations>
+        <Location id="148073" name="session" start="b0" end="b173546" flags="IsSessionRange" locked="0" timestamp="1735867443" cue="0"/>
+        <Location id="148115" name="Loop" start="b1920" end="b7680" flags="IsAutoLoop" locked="0" timestamp="1735867563" cue="0"/>
+        <Location id="148214" name="mark1" start="b2307" end="b2307" flags="IsMark" locked="0" timestamp="1735868021" cue="0"/>
+        <Location id="148389" name="1" start="b0" end="b0" flags="IsMark,IsCueMarker" locked="0" timestamp="1735869725" cue="0"/>
+        <Location id="194735" name="mark2" start="b588349" end="b588349" flags="IsMark" locked="0" timestamp="1736274336" cue="0"/>
+      </Locations>
+      <Locations>
+        <Location id="148073" name="session" start="b0" end="b173546" flags="IsSessionRange" locked="0" timestamp="1735867443" cue="0"/>
+        <Location id="148115" name="Loop" start="b1920" end="b7680" flags="IsAutoLoop" locked="0" timestamp="1735867563" cue="0"/>
+        <Location id="148214" name="mark1" start="b2307" end="b2307" flags="IsMark" locked="0" timestamp="1735868021" cue="0"/>
+        <Location id="148389" name="1" start="b0" end="b0" flags="IsMark,IsCueMarker" locked="0" timestamp="1735869725" cue="0"/>
+        <Location id="194735" name="mark2" start="b588349" end="b588349" flags="IsMark" locked="0" timestamp="1736274336" cue="0"/>
+        <Location id="220408" name="mark3" start="b0" end="b0" flags="IsMark" locked="0" timestamp="1741714637" cue="0"/>
+      </Locations>
+    </MementoCommand>
+    <MementoCommand obj-id="50" type-name="SelectionMemento">
+      <SelectionMemento mouse-mode="MouseObject" zoom="245" left-frame="0" y-origin="0">
+        <Selection>
+          <StripableView id="146407"/>
+        </Selection>
+      </SelectionMemento>
+      <SelectionMemento mouse-mode="MouseObject" zoom="245" left-frame="0" y-origin="0">
+        <Selection>
+          <Marker id="220408" start="1"/>
+        </Selection>
+      </SelectionMemento>
+    </MementoCommand>
+  </UndoTransaction>
+</UndoHistory>
