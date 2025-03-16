@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Session version="7003" name="So Close To You (2)" sample-rate="48000" session-range-is-free="1" id-counter="121502" rg-counter="211" name-counter="1" event-counter="38172908" vca-counter="1">
+<Session version="7003" name="So Close To You (2)" sample-rate="48000" session-range-is-free="1" id-counter="121503" rg-counter="211" name-counter="1" event-counter="38172908" vca-counter="1">
   <ProgramVersion created-with="Ardour 8.11" modified-with="Ardour 8.12"/>
   <MIDIPorts>
     <Port name="Cue Control in" type="midi" direction="Input">
@@ -9018,34 +9018,33 @@
     <AddRouteDialog LastRouteType="MidiTrack"/>
     <UI>
       <Window name="key-editor" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="session-options-editor" visible="0" x-off="0" y-off="244" x-size="975" y-size="516"/>
+      <Window name="session-options-editor" visible="0" x-off="0" y-off="195" x-size="818" y-size="483"/>
       <Window name="speaker-config" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="about" visible="0" x-off="0" y-off="0" x-size="424" y-size="630"/>
-      <Window name="add-routes" visible="0" x-off="-1" y-off="-1" x-size="855" y-size="515"/>
+      <Window name="about" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="add-routes" visible="0" x-off="-1" y-off="-1" x-size="675" y-size="491"/>
       <Window name="add-video" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="inspector" visible="0" x-off="49" y-off="217" x-size="1491" y-size="778"/>
+      <Window name="inspector" visible="0" x-off="123" y-off="223" x-size="620" y-size="370"/>
       <Window name="audio-midi-setup" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="video-export" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="script-manager" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="bundle-manager" visible="0" x-off="226" y-off="306" x-size="480" y-size="240"/>
-      <Window name="locations" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="big-clock" visible="0" x-off="17" y-off="166" x-size="832" y-size="117"/>
+      <Window name="bundle-manager" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="locations" visible="0" x-off="230" y-off="0" x-size="293" y-size="494"/>
+      <Window name="big-clock" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="big-transport" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="virtual-keyboard" visible="0" x-off="72" y-off="181" x-size="754" y-size="203"/>
+      <Window name="virtual-keyboard" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="library-downloader" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="audio-connection-manager" visible="0" x-off="212" y-off="68" x-size="1223" y-size="864"/>
-      <Window name="midi-connection-manager" visible="0" x-off="451" y-off="110" x-size="1101" y-size="742"/>
+      <Window name="audio-connection-manager" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="midi-connection-manager" visible="0" x-off="55" y-off="108" x-size="585" y-size="567"/>
       <Window name="luawindow" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="idle-o-meter" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="io-plugins" visible="0" x-off="100" y-off="372" x-size="500" y-size="200"/>
-      <Window name="plugin-manager" visible="0" x-off="440" y-off="250" x-size="1039" y-size="600"/>
+      <Window name="io-plugins" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="plugin-manager" visible="0" x-off="723" y-off="338" x-size="1057" y-size="600"/>
       <Window name="plugin-dsp-load" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="dsp-statistics" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="transport-masters" visible="0" x-off="0" y-off="418" x-size="1948" y-size="294"/>
+      <Window name="transport-masters" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="RPM-71" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="RPM-4121" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="RPM-2457" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="RPM-20462" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="RPM-43229" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="RPM-50822" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="P-4121-4229" visible="0" x-off="0" y-off="0" x-size="1712" y-size="1110" custom-ui="1"/>
@@ -9200,11 +9199,6 @@
             <Object id="control 20483" visible="0"/>
           </Object>
         </Object>
-        <Object id="rtav 20462" height="164"/>
-        <Object id="automation 20483" height="84" visible="0"/>
-        <Object id="automation 20485" height="84" visible="0"/>
-        <Object id="automation 20462 12/0/0" height="84" visible="0"/>
-        <Object id="automation 20498" height="84" visible="0"/>
         <Object id="strip 38488">
           <Object id="processor 38551">
             <Object id="control 38525" visible="0"/>

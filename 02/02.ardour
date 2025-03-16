@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Session version="7003" name="So Close To You (2)" sample-rate="48000" session-range-is-free="1" id-counter="121503" rg-counter="211" name-counter="1" event-counter="38172908" vca-counter="1">
+<Session version="7003" name="So Close To You (2)" sample-rate="48000" session-range-is-free="1" id-counter="130210" rg-counter="213" name-counter="1" event-counter="38178491" vca-counter="1">
   <ProgramVersion created-with="Ardour 8.11" modified-with="Ardour 8.12"/>
   <MIDIPorts>
     <Port name="Cue Control in" type="midi" direction="Input">
@@ -85,6 +85,16 @@
     <Source name="Percussion-4.mid" take-id="2025-02-07 18.58.45" type="midi" flags="Writable,CanRename" id="20438" captured-for="Percussion" origin=""/>
     <Source name="Bass-1.mid" take-id="2025-02-10 16.11.36" type="midi" flags="Writable,CanRename" id="38461" captured-for="Lead" origin=""/>
     <Source name="Bass-2.mid" take-id="" type="midi" flags="Writable,CanRename" id="98484" natural-position="a0" captured-for="Lead" origin=""/>
+    <Source name="keys-beat0-1.mid" take-id="" type="midi" flags="Writable,CanRename" id="128544" natural-position="a0" origin=""/>
+    <Source name="keys-beat0-2.mid" take-id="" type="midi" flags="Writable,CanRename" id="128557" natural-position="a0" origin=""/>
+    <Source name="Bass-3.mid" take-id="" type="midi" flags="Writable,CanRename" id="128567" natural-position="a0" origin=""/>
+    <Source name="Bass-4.mid" take-id="" type="midi" flags="Writable,CanRename" id="128577" natural-position="a0" origin=""/>
+    <Source name="Bass0-0.1-1.mid" take-id="" type="midi" flags="Writable,CanRename" id="130141" natural-position="a0" origin=""/>
+    <Source name="Bass0-1.mid" take-id="" type="midi" flags="Writable,CanRename" id="130151" natural-position="a0" origin=""/>
+    <Source name="Bass0-2.mid" take-id="" type="midi" flags="Writable,CanRename" id="130161" natural-position="a0" origin=""/>
+    <Source name="Bass_1-2.mid" take-id="" type="midi" flags="Writable,CanRename" id="130175" natural-position="a0" origin=""/>
+    <Source name="Bass_1-3.mid" take-id="" type="midi" flags="Writable,CanRename" id="130191" natural-position="a0" origin=""/>
+    <Source name="Lead0-1.mid" take-id="" type="midi" flags="Writable,CanRename" id="130203" natural-position="a0" origin=""/>
   </Sources>
   <TriggerBindings/>
   <Regions>
