@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <instant>
   <LastUsedSnapshot name="Hoe"/>
-  <Main x="0" y="0" w="1920" h="1080" current-tab="mixer"/>
-  <Editor id="53" edit-horizontal-pane-pos="0.79062497615814209" notebook-shrunk="0" edit-vertical-pane-pos="0.9080086350440979" mixer-width="Narrow" zoom-focus="ZoomFocusPlayhead" zoom="1340" grid-type="GridTypeBeatDiv16" snap-mode="SnapMagnetic" internal-grid-type="GridTypeBeat" internal-snap-mode="SnapMagnetic" pre-internal-grid-type="GridTypeBeatDiv16" pre-internal-snap-mode="SnapMagnetic" edit-point="EditAtMouse" visible-track-count="-1" marker-click-behavior="MarkerClickSelectOnly" draw-length="GridTypeNone" draw-velocity="-1" draw-channel="-1" playhead="0" left-frame="0" y-origin="0" maximised="1" follow-playhead="0" stationary-playhead="1" mouse-mode="MouseObject" join-object-range="0" show-editor-mixer="0" show-editor-list="1" editor-list-page="1" show-marker-lines="0" show-touched-automation="1" nudge-clock-value="a1411200000@a0">
+  <Main x="0" y="0" w="1728" h="1080" current-tab="mixer"/>
+  <Editor id="53" edit-horizontal-pane-pos="0.79166668653488159" notebook-shrunk="1" edit-vertical-pane-pos="0.89999997615814209" mixer-width="Narrow" zoom-focus="ZoomFocusPlayhead" zoom="439" grid-type="GridTypeBeatDiv16" snap-mode="SnapMagnetic" internal-grid-type="GridTypeBeat" internal-snap-mode="SnapMagnetic" pre-internal-grid-type="GridTypeBeatDiv16" pre-internal-snap-mode="SnapMagnetic" edit-point="EditAtMouse" visible-track-count="-1" marker-click-behavior="MarkerClickSelectOnly" draw-length="GridTypeNone" draw-velocity="-1" draw-channel="-1" playhead="0" left-frame="0" y-origin="0" maximised="1" follow-playhead="0" stationary-playhead="1" mouse-mode="MouseObject" join-object-range="0" show-editor-mixer="0" show-editor-list="1" editor-list-page="0" show-marker-lines="0" show-touched-automation="1" nudge-clock-value="a1411200000@a0">
     <Window name="Editor" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" tabbed="1"/>
     <Buttons>
       <Press/>
       <Release/>
     </Buttons>
     <Selection>
-      <StripableView id="4121"/>
+      <StripableView id="2457"/>
     </Selection>
     <EditorLocations clock-mode="BBT"/>
   </Editor>
@@ -17,7 +17,7 @@
     <Window name="Mixer" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" tabbed="1"/>
   </Mixer>
   <Preferences>
-    <Window name="Preferences" visible="0" x-off="134" y-off="122" x-size="977" y-size="796" tabbed="0"/>
+    <Window name="Preferences" visible="0" x-off="0" y-off="0" x-size="807" y-size="689" tabbed="0"/>
   </Preferences>
   <Meterbridge show-meterbridge="0">
     <geometry x-size="600" y-size="400" x-pos="1" y-pos="1"/>
@@ -25,7 +25,7 @@
   <Recorder recorder-vpane-pos="0.75">
     <Window name="Recorder" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" tabbed="1"/>
   </Recorder>
-  <TriggerPage triggerpage-hpane-pos="0.78072917461395264" triggerpage-sidebar-page="2">
+  <TriggerPage triggerpage-hpane-pos="0.75" triggerpage-sidebar-page="2">
     <Window name="Cues" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" tabbed="1"/>
   </TriggerPage>
   <ClockModes>

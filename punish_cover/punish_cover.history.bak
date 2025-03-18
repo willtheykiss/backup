@@ -1,0 +1,349 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<UndoHistory>
+  <UndoTransaction tv-sec="1742423201" tv-usec="11689" name="insert file">
+    <MementoCommand obj-id="50" type-name="16SelectionMemento">
+      <SelectionMemento mouse-mode="MouseObject" zoom="575" left-frame="0" y-origin="0">
+        <Selection>
+          <StripableView id="14907"/>
+        </Selection>
+      </SelectionMemento>
+      <SelectionMemento mouse-mode="MouseObject" zoom="575" left-frame="0" y-origin="0">
+        <Selection>
+          <StripableView id="14994"/>
+        </Selection>
+      </SelectionMemento>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1742423203" tv-usec="359256" name="insert file">
+    <MementoCommand obj-id="50" type-name="16SelectionMemento">
+      <SelectionMemento mouse-mode="MouseObject" zoom="575" left-frame="0" y-origin="0">
+        <Selection>
+          <StripableView id="14994"/>
+        </Selection>
+      </SelectionMemento>
+      <SelectionMemento mouse-mode="MouseObject" zoom="575" left-frame="0" y-origin="0">
+        <Selection>
+          <StripableView id="15108"/>
+        </Selection>
+      </SelectionMemento>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1742423407" tv-usec="219869" name="insert file">
+    <MementoCommand obj-id="50" type-name="16SelectionMemento">
+      <SelectionMemento mouse-mode="MouseObject" zoom="575" left-frame="0" y-origin="0">
+        <Selection/>
+      </SelectionMemento>
+      <SelectionMemento mouse-mode="MouseObject" zoom="575" left-frame="0" y-origin="0">
+        <Selection>
+          <StripableView id="15222"/>
+        </Selection>
+      </SelectionMemento>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1742423643" tv-usec="859971" name="create region">
+    <MementoCommand obj-id="50" type-name="16SelectionMemento">
+      <SelectionMemento mouse-mode="MouseDraw" zoom="575" left-frame="0" y-origin="0">
+        <Selection>
+          <StripableView id="15322"/>
+        </Selection>
+      </SelectionMemento>
+      <SelectionMemento mouse-mode="MouseDraw" zoom="575" left-frame="0" y-origin="0">
+        <Selection>
+          <StripableView id="15322"/>
+        </Selection>
+      </SelectionMemento>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1742423659" tv-usec="535591" name="Region end trim">
+    <MementoCommand obj-id="50" type-name="16SelectionMemento">
+      <SelectionMemento mouse-mode="MouseObject" zoom="146" left-frame="0" y-origin="0">
+        <Selection>
+          <Regions>
+            <Region id="17008"/>
+          </Regions>
+        </Selection>
+      </SelectionMemento>
+      <SelectionMemento mouse-mode="MouseObject" zoom="146" left-frame="0" y-origin="0">
+        <Selection>
+          <Regions>
+            <Region id="17008"/>
+          </Regions>
+        </Selection>
+      </SelectionMemento>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1742423661" tv-usec="26082" name="Region end trim">
+    <MementoCommand obj-id="50" type-name="16SelectionMemento">
+      <SelectionMemento mouse-mode="MouseObject" zoom="146" left-frame="0" y-origin="0">
+        <Selection>
+          <Regions>
+            <Region id="17008"/>
+          </Regions>
+        </Selection>
+      </SelectionMemento>
+      <SelectionMemento mouse-mode="MouseObject" zoom="146" left-frame="0" y-origin="0">
+        <Selection>
+          <Regions>
+            <Region id="17008"/>
+          </Regions>
+        </Selection>
+      </SelectionMemento>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1742423683" tv-usec="229869" name="add note">
+    <NoteDiffCommand midi-source="17003">
+      <ChangedNotes/>
+      <AddedNotes>
+        <note id="265913" note="66" channel="0" time="0:0" length="1:0" velocity="64"/>
+      </AddedNotes>
+      <RemovedNotes/>
+    </NoteDiffCommand>
+    <MementoCommand obj-id="50" type-name="16SelectionMemento">
+      <SelectionMemento mouse-mode="MouseDraw" zoom="146" left-frame="0" y-origin="0">
+        <Selection>
+          <StripableView id="15322"/>
+        </Selection>
+      </SelectionMemento>
+      <SelectionMemento mouse-mode="MouseDraw" zoom="146" left-frame="0" y-origin="0">
+        <Selection>
+          <Regions>
+            <Region id="17008"/>
+          </Regions>
+          <MIDINotes region-id="17008">
+            <note note-id="265913"/>
+          </MIDINotes>
+        </Selection>
+      </SelectionMemento>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1742423696" tv-usec="334200" name="resize notes">
+    <NoteDiffCommand midi-source="17003">
+      <ChangedNotes>
+        <Change property="Length" old="0:120" new="1:0" id="265913"/>
+      </ChangedNotes>
+      <AddedNotes/>
+      <RemovedNotes/>
+    </NoteDiffCommand>
+    <MementoCommand obj-id="50" type-name="16SelectionMemento">
+      <SelectionMemento mouse-mode="MouseContent" zoom="146" left-frame="0" y-origin="0">
+        <Selection>
+          <Regions>
+            <Region id="17008"/>
+          </Regions>
+          <MIDINotes region-id="17008">
+            <note note-id="265913"/>
+          </MIDINotes>
+        </Selection>
+      </SelectionMemento>
+      <SelectionMemento mouse-mode="MouseContent" zoom="146" left-frame="0" y-origin="0">
+        <Selection>
+          <Regions>
+            <Region id="17008"/>
+          </Regions>
+          <MIDINotes region-id="17008">
+            <note note-id="265913"/>
+          </MIDINotes>
+        </Selection>
+      </SelectionMemento>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1742423698" tv-usec="820591" name="copy MIDI">
+    <MementoCommand obj-id="50" type-name="16SelectionMemento">
+      <SelectionMemento mouse-mode="MouseContent" zoom="146" left-frame="0" y-origin="0">
+        <Selection>
+          <Regions>
+            <Region id="17008"/>
+          </Regions>
+          <MIDINotes region-id="17008">
+            <note note-id="265913"/>
+          </MIDINotes>
+        </Selection>
+      </SelectionMemento>
+      <SelectionMemento mouse-mode="MouseContent" zoom="146" left-frame="0" y-origin="0">
+        <Selection>
+          <Regions>
+            <Region id="17008"/>
+          </Regions>
+          <MIDINotes region-id="17008">
+            <note note-id="265913"/>
+          </MIDINotes>
+        </Selection>
+      </SelectionMemento>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1742423700" tv-usec="441199" name="paste">
+    <NoteDiffCommand midi-source="17003">
+      <ChangedNotes/>
+      <AddedNotes>
+        <note id="265938" note="66" channel="0" time="2:0" length="1:0" velocity="64"/>
+      </AddedNotes>
+      <RemovedNotes/>
+    </NoteDiffCommand>
+    <MementoCommand obj-id="50" type-name="16SelectionMemento">
+      <SelectionMemento mouse-mode="MouseContent" zoom="146" left-frame="0" y-origin="0">
+        <Selection>
+          <Regions>
+            <Region id="17008"/>
+          </Regions>
+          <MIDINotes region-id="17008">
+            <note note-id="265913"/>
+          </MIDINotes>
+        </Selection>
+      </SelectionMemento>
+      <SelectionMemento mouse-mode="MouseContent" zoom="146" left-frame="0" y-origin="0">
+        <Selection>
+          <Regions>
+            <Region id="17008"/>
+          </Regions>
+          <MIDINotes region-id="17008">
+            <note note-id="265938"/>
+          </MIDINotes>
+        </Selection>
+      </SelectionMemento>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1742423712" tv-usec="851017" name="set loop range from region">
+    <MementoCommand obj-id="50" type-name="16SelectionMemento">
+      <SelectionMemento mouse-mode="MouseObject" zoom="146" left-frame="0" y-origin="0">
+        <Selection>
+          <Regions>
+            <Region id="17008"/>
+          </Regions>
+        </Selection>
+      </SelectionMemento>
+      <SelectionMemento mouse-mode="MouseObject" zoom="146" left-frame="0" y-origin="0">
+        <Selection>
+          <Regions>
+            <Region id="17008"/>
+          </Regions>
+        </Selection>
+      </SelectionMemento>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1742424504" tv-usec="576146" name="delete objects">
+    <MementoCommand obj-id="50" type-name="16SelectionMemento">
+      <SelectionMemento mouse-mode="MouseObject" zoom="146" left-frame="0" y-origin="0">
+        <Selection>
+          <Regions>
+            <Region id="17008"/>
+          </Regions>
+        </Selection>
+      </SelectionMemento>
+      <SelectionMemento mouse-mode="MouseObject" zoom="146" left-frame="0" y-origin="0">
+        <Selection/>
+      </SelectionMemento>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1742424646" tv-usec="567236" name="insert file">
+    <MementoCommand obj-id="50" type-name="16SelectionMemento">
+      <SelectionMemento mouse-mode="MouseObject" zoom="146" left-frame="0" y-origin="0">
+        <Selection>
+          <StripableView id="15322"/>
+        </Selection>
+      </SelectionMemento>
+      <SelectionMemento mouse-mode="MouseObject" zoom="146" left-frame="0" y-origin="0">
+        <Selection>
+          <StripableView id="15322"/>
+        </Selection>
+      </SelectionMemento>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1742424676" tv-usec="200306" name="delete objects">
+    <MementoCommand obj-id="50" type-name="16SelectionMemento">
+      <SelectionMemento mouse-mode="MouseObject" zoom="146" left-frame="0" y-origin="0">
+        <Selection>
+          <Regions>
+            <Region id="17222"/>
+          </Regions>
+        </Selection>
+      </SelectionMemento>
+      <SelectionMemento mouse-mode="MouseObject" zoom="146" left-frame="0" y-origin="0">
+        <Selection/>
+      </SelectionMemento>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1742424683" tv-usec="9668" name="insert file">
+    <MementoCommand obj-id="50" type-name="16SelectionMemento">
+      <SelectionMemento mouse-mode="MouseObject" zoom="146" left-frame="0" y-origin="0">
+        <Selection/>
+      </SelectionMemento>
+      <SelectionMemento mouse-mode="MouseObject" zoom="146" left-frame="0" y-origin="0">
+        <Selection/>
+      </SelectionMemento>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1742424710" tv-usec="705155" name="delete objects">
+    <MementoCommand obj-id="50" type-name="16SelectionMemento">
+      <SelectionMemento mouse-mode="MouseObject" zoom="146" left-frame="0" y-origin="0">
+        <Selection>
+          <Regions>
+            <Region id="17289"/>
+          </Regions>
+        </Selection>
+      </SelectionMemento>
+      <SelectionMemento mouse-mode="MouseObject" zoom="146" left-frame="0" y-origin="0">
+        <Selection/>
+      </SelectionMemento>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1742424796" tv-usec="892236" name="insert region">
+    <MementoCommand obj-id="50" type-name="16SelectionMemento">
+      <SelectionMemento mouse-mode="MouseObject" zoom="146" left-frame="0" y-origin="0">
+        <Selection/>
+      </SelectionMemento>
+      <SelectionMemento mouse-mode="MouseObject" zoom="146" left-frame="0" y-origin="0">
+        <Selection/>
+      </SelectionMemento>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1742424799" tv-usec="792104" name="region drag">
+    <MementoCommand obj-id="50" type-name="16SelectionMemento">
+      <SelectionMemento mouse-mode="MouseObject" zoom="146" left-frame="0" y-origin="0">
+        <Selection>
+          <Regions>
+            <Region id="17496"/>
+          </Regions>
+        </Selection>
+      </SelectionMemento>
+      <SelectionMemento mouse-mode="MouseObject" zoom="146" left-frame="0" y-origin="0">
+        <Selection>
+          <Regions>
+            <Region id="17496"/>
+          </Regions>
+        </Selection>
+      </SelectionMemento>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1742424801" tv-usec="259866" name="region drag">
+    <MementoCommand obj-id="50" type-name="16SelectionMemento">
+      <SelectionMemento mouse-mode="MouseObject" zoom="146" left-frame="0" y-origin="0">
+        <Selection>
+          <Regions>
+            <Region id="17496"/>
+          </Regions>
+        </Selection>
+      </SelectionMemento>
+      <SelectionMemento mouse-mode="MouseObject" zoom="146" left-frame="0" y-origin="0">
+        <Selection>
+          <Regions>
+            <Region id="17496"/>
+          </Regions>
+        </Selection>
+      </SelectionMemento>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1742424820" tv-usec="63704" name="delete objects">
+    <MementoCommand obj-id="50" type-name="16SelectionMemento">
+      <SelectionMemento mouse-mode="MouseObject" zoom="146" left-frame="0" y-origin="0">
+        <Selection>
+          <Regions>
+            <Region id="17496"/>
+          </Regions>
+        </Selection>
+      </SelectionMemento>
+      <SelectionMemento mouse-mode="MouseObject" zoom="146" left-frame="0" y-origin="0">
+        <Selection/>
+      </SelectionMemento>
+    </MementoCommand>
+  </UndoTransaction>
+</UndoHistory>

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<UndoHistory>
+  <UndoTransaction tv-sec="1742485588" tv-usec="708751" name="insert file">
+    <MementoCommand obj-id="50" type-name="16SelectionMemento">
+      <SelectionMemento mouse-mode="MouseObject" zoom="146" left-frame="0" y-origin="0">
+        <Selection/>
+      </SelectionMemento>
+      <SelectionMemento mouse-mode="MouseObject" zoom="146" left-frame="0" y-origin="0">
+        <Selection>
+          <StripableView id="184"/>
+        </Selection>
+      </SelectionMemento>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1742485606" tv-usec="364308" name="set loop range from region">
+    <MementoCommand obj-id="50" type-name="16SelectionMemento">
+      <SelectionMemento mouse-mode="MouseObject" zoom="146" left-frame="0" y-origin="0">
+        <Selection>
+          <Regions>
+            <Region id="262"/>
+          </Regions>
+        </Selection>
+      </SelectionMemento>
+      <SelectionMemento mouse-mode="MouseObject" zoom="146" left-frame="0" y-origin="0">
+        <Selection>
+          <Regions>
+            <Region id="262"/>
+          </Regions>
+        </Selection>
+      </SelectionMemento>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1742486308" tv-usec="582804" name="edit tempo">
+    <TempoCommand name="tempo map change">
+      <before>
+        <TempoMap superclocks-per-second="282240000">
+          <Tempos>
+            <Tempo npm="120" enpm="120" note-type="4" type="Constant" locked-to-meter="0" continuing="0" active="1" sclock="0" quarters="0:0" bbt="1|1|0" omega="0"/>
+          </Tempos>
+          <Meters>
+            <Meter note-value="4" divisions-per-bar="4" sclock="0" quarters="0:0" bbt="1|1|0"/>
+          </Meters>
+          <MusicTimes/>
+        </TempoMap>
+      </before>
+      <after>
+        <TempoMap superclocks-per-second="282240000">
+          <Tempos>
+            <Tempo npm="130.00000038383408" enpm="130.00000038383408" note-type="4" type="Constant" locked-to-meter="0" continuing="0" active="1" sclock="0" quarters="0:0" bbt="1|1|0" omega="0"/>
+          </Tempos>
+          <Meters>
+            <Meter note-value="4" divisions-per-bar="4" sclock="0" quarters="0:0" bbt="1|1|0"/>
+          </Meters>
+          <MusicTimes/>
+        </TempoMap>
+      </after>
+    </TempoCommand>
+    <MementoCommand obj-id="50" type-name="16SelectionMemento">
+      <SelectionMemento mouse-mode="MouseObject" zoom="146" left-frame="0" y-origin="0">
+        <Selection>
+          <StripableView id="322"/>
+        </Selection>
+      </SelectionMemento>
+      <SelectionMemento mouse-mode="MouseObject" zoom="146" left-frame="0" y-origin="0">
+        <Selection>
+          <StripableView id="322"/>
+        </Selection>
+      </SelectionMemento>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1742487084" tv-usec="555643" name="insert file">
+    <MementoCommand obj-id="50" type-name="16SelectionMemento">
+      <SelectionMemento mouse-mode="MouseObject" zoom="146" left-frame="0" y-origin="0">
+        <Selection/>
+      </SelectionMemento>
+      <SelectionMemento mouse-mode="MouseObject" zoom="146" left-frame="0" y-origin="0">
+        <Selection>
+          <StripableView id="4299"/>
+        </Selection>
+      </SelectionMemento>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1742500493" tv-usec="910875" name="insert file">
+    <StatefulDiffCommand obj-id="6662" type-name="N6ARDOUR13AudioPlaylistE">
+      <Changes>
+        <Regions>
+          <Add id="6678"/>
+        </Regions>
+      </Changes>
+    </StatefulDiffCommand>
+    <MementoCommand obj-id="50" type-name="16SelectionMemento">
+      <SelectionMemento mouse-mode="MouseObject" zoom="146" left-frame="0" y-origin="0">
+        <Selection/>
+      </SelectionMemento>
+      <SelectionMemento mouse-mode="MouseObject" zoom="146" left-frame="0" y-origin="0">
+        <Selection>
+          <StripableView id="6600"/>
+        </Selection>
+      </SelectionMemento>
+    </MementoCommand>
+  </UndoTransaction>
+</UndoHistory>
